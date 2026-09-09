@@ -22,4 +22,4 @@ Python, NumPy, Matplotlib, SciPy
 ## How to run
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabhraj19n/qpsk-16qam-modulation-simulator/blob/main/qpsk16qamModulationSimulator.ipynb)
 
-Open `qpsk16qamModulationSimulator.ipynb` in Google Colab or Jupyter Notebook and run all cells sequentially.
+
